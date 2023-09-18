@@ -1,0 +1,1230 @@
+
+
+.early-bird{
+background: #031C43;
+font-family: Inter;
+font-size: 18px;
+font-weight: normal;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.mr-150{
+margin-right: 150px;
+}
+
+.mt-100{
+margin-top: 100px;
+}
+
+.mt-150{
+margin-top: 150px;
+}
+
+.mt-250{
+margin-top: 250px 0;
+}
+.my-150{
+margin: 150px 0;
+}
+
+.pl-150{
+
+padding-left: 150px;
+
+}
+
+.lightB{
+color: #56BFE0;
+}
+
+.bg-lightB{
+background: #56BFE0;
+}
+
+.darkB{
+color: #1D427E;
+
+}
+
+.bg-darkB{
+background: #1D427E;
+
+}
+
+/*******************CUSTOM CLASSES*******************/
+nav{
+	width: 85%;
+	margin: auto;
+}
+.bg-cela{
+background-image: url("../images/hero.png");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 5050px;
+
+}
+
+.hero{
+background-image: url("../images/hero.png");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 700px;
+
+}
+
+.nav-mr{
+margin-right: 150px;
+}
+.hero-mobile{
+display: none;
+}
+
+
+.hero p{
+font-family: Inter;
+font-size: 14px;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.navbar-light .navbar-nav .nav-link{
+	font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.bg-program{
+background: #1E69E1;
+padding: 10px 21px 10px 21px;
+align-items: center;
+font-size: 18px;
+font-weight: bold;
+color: white;
+border-radius: 10px;
+
+}
+
+h1.h_1{
+color: #1E69E1;
+font-family: Inter;
+font-size: 30px;
+font-weight: 700;
+line-height: 36px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+p.popust{
+color: red;
+
+font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+
+.btn-reg{
+background: linear-gradient(90deg, #56BFE0 0%, #1E69E1 91.67%);
+color: white;
+border:none;
+}
+
+.header-right{
+position: relative;
+}
+
+.header-right-text{
+background: white;
+color: #56BFE0;
+border: 1px solid #56BFE0;
+padding: 10px 21px 10px 21px;
+border-radius: 10px;
+font-weight: bold;
+font-size: 20px;
+position: absolute;
+right: 15px;
+bottom: 80px;
+}
+
+.navigation-bg{
+background: linear-gradient(180deg, #56BFE0 0%, #1E69E1 100%);
+
+
+}
+
+
+.nav-button {
+border: none;
+border-radius: 10px;
+background: #56BFE0;
+padding: 15px 90px;
+font-size: 24px;
+font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+
+.nav-buttonDrop a.nav-link{
+border: none;
+border-radius: 10px;
+background: #56BFE0;
+padding: 10px 10px;
+margin: 5px 166px 5px 0px;
+font-size: 24px;
+font-family: Inter;
+font-size: 12px;
+font-weight: 800;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+
+.nav-buttonDrop:hover a.nav-link{
+	background-color: red;
+}
+.navbar-nav li a{
+font-family: Inter;
+font-size: 24px;
+font-weight: 600;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+
+}
+.navbar-brand2{
+	border: none;
+border-radius: 10px;
+background: #56BFE0;
+padding: 15px 55px;
+font-size: 24px;
+font-family: Inter;
+font-size: 12px;
+font-weight: 800;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+}
+
+.nav-button:hover{
+background: #1E69E1;
+}
+
+/*******************navigation buttons*******************/
+
+.formula{
+background-image: url("../images/formula-bg.png");
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+height: 400px;
+padding: 20px 0;
+
+}
+
+.formula-title{
+background: linear-gradient(89.81deg, #1E69E1 43.2%, #56BFE0 81.66%);
+border-radius: 10px;
+color: white;
+padding: 10px 300px 10px 10px;
+font-size: 32px;
+}
+
+.success-card{
+box-shadow: 1px 6px 5px 0px #00000040;
+border-right: 2px solid #1E69E1;
+padding: 15px 20px 15px 20px;
+border: 0px 2px 0px 0px;
+
+
+}
+
+.success-card hr{
+background: blue;
+height: 4px;
+width: 40%;
+
+}
+
+.thats-not-all{
+margin: 200px 0 50px;
+}
+
+/*******************formula*******************/
+
+.bonusPack{
+width: 54%;
+margin: auto;
+}
+.bonus{
+background-image: url("../images/bonus.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+height: 400px;
+border-radius: 20px;
+}
+.bonus-list{
+
+font-family: Inter;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+}
+.bonus-class{
+/*padding-left: 250px;*/
+}
+
+.btn-bonus{
+background: linear-gradient(90deg, #56BFE0 0%, #1E69E1 91.67%);
+color: white;
+border:none;
+padding: 10px 70px;
+border-radius: 10px;
+}
+
+/*******************bonus pack*******************/
+
+.project-section{
+width: 50%;
+margin: auto;
+}
+
+.project-card{
+border: 3px solid #56BFE0;
+background: #56BFE0;
+border-radius: 10px;
+
+}
+
+
+.project-card h5{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+.project-card p{
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.project-card .project-title{
+border-bottom: 1px solid white;
+}
+
+.project-num{
+width: 40px;
+height: 40px;
+border: 3px solid blue;
+border-radius: 50%;
+display: flex;
+flex-direction: column;
+align-items: center;
+color: #fff;
+}
+
+/*******************PROJECT SECTION*******************/
+
+.job-program{
+
+border: 3px solid #56BFE0;
+
+border-radius: 10px;
+}
+
+
+/*******************JOB SECTION*******************/
+
+
+.team-card {
+border: 2px solid #1E69E1;
+background: #56BFE0;
+border-radius: 10px;
+}
+
+.team-card2 {
+background: linear-gradient(0deg, #1D427E, #1D427E),
+linear-gradient(0deg, #56BFE0, #56BFE0);
+border-radius: 10px;
+border: 1px solid #56BFE0;	
+color: white;
+font-weight: normal;
+
+}
+
+.team-card2 img,
+.team-card img{
+border: 1px solid #1E69E1;
+background: #56BFE0;
+border-radius: 10px;
+}
+
+.pdole{
+
+padding:19px 0;
+}
+
+/*******************TEAM CARDS SECTION*******************/
+
+
+
+.alumni-card{
+position: relative;
+width: 100%;
+  margin: 0 0.5em;
+  box-shadow: 2px 6px 8px 0 rgba(22, 22, 26, 0.18);
+  border: none;
+  border-radius: 0;
+}
+.alumni-header{
+background: black;
+height: 100px;
+}
+.alumni-pic{
+position: absolute;
+top: 10%;
+left: 6%;
+}
+.alumniBtn{
+border: 1px solid #1D427E;
+border-radius: 47px;
+}
+
+p.alumni-card-p{
+color: grey;
+font-size: 14px;
+font-weight: normal;
+}
+
+/* CAROUSEL SECTION */
+
+.proektCard{
+border-radius: 20px;
+}
+
+h3.proektH3{
+color: #1D427E;
+
+}
+
+.pb-card{
+padding-bottom: 55px;
+}
+
+
+.cards-wrapper {
+  display: flex;
+  justify-content: center;
+}
+ 
+
+.carousel-inner {
+  padding: 1em;
+  width: 90%;
+  margin: auto;
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+  background-color: orange;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 50%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.next-mali{
+	  background-color: orange;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 50%;
+  top: 105%;
+  margin: 0 150px;
+   	
+}
+
+.prev-mali{
+	  background-color: orange;
+  width: 5vh;
+  height: 5vh;
+  border-radius: 50%;
+  top: 105%;
+  margin: 0 150px;
+   	
+}
+/*******************PROEKT CARDS*******************/
+
+.meetup{
+width: 80%;
+margin: auto;
+}
+
+.pokanaH2{
+font-size: 40px;
+color: white;
+}
+.pokana{
+background: #1D427E;
+
+}
+
+.btn-pokana{
+background: #56BFE0;
+width: 50%;
+
+}
+
+.meetup-right img{
+width: 100%;
+}
+
+.meetup-right{
+
+margin-left: 0px;
+}
+
+/*******************MEETUP SECTION*******************/
+
+.programa{
+width: 50%;
+margin: auto;
+}
+
+.programa hr{
+height: 1px;
+background: black;
+}
+
+
+
+.programa-card1{
+margin-top: 90px;
+}
+
+.programa-card2{
+margin-top: 64px;
+}
+
+.bg-programa{
+background: #1D427E;
+}
+
+.mt-pcard1{
+margin-top: 110px;
+}
+.mt-pcard2{
+margin-top: 148px;
+}
+
+.predavac{
+margin-top: -40px;
+margin-bottom: 32px;
+}
+
+p.psmall{
+font-family: Inter;
+font-size: 11px;
+font-weight: 400;
+line-height: 16px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.naj-programa{
+padding: 10px 51.5px 2px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+font-family: Inter;
+font-size: 23px;
+font-weight: 900;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+
+
+.programa-txt{
+font-family: Inter;
+font-size: 16px;
+font-weight: 100;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.btn-programa{
+background: #1D427E;
+padding: 9px 23px 9px 23px;
+border-radius: 10px;
+color: white;
+
+}
+
+.btn-programa-zakazi{
+background: #56BFE0;
+padding: 9px 23px 9px 23px;
+border-radius: 10px;
+
+}
+
+.cena{
+text-decoration: line-through;
+
+}
+.vkluceno{
+width: 70%;
+margin: 0px 280px;
+}
+
+.vkluceno p{
+font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+
+
+}
+
+/*************** VKLUCENO *******************/
+
+.experience-section{
+width: 70%;
+margin: auto;
+}
+.bg-experience{
+background: #1D427E;
+
+}
+
+.bg-experience p{
+background: #1D427E;
+
+font-family: Inter;
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: center;
+}
+
+
+.txt-experience{
+font-family: Inter;
+font-size: 24px;
+font-weight: 400;
+line-height: 29px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.grey-card{
+background: #F0F0F0;
+
+}
+
+.ex-cardP{
+padding-bottom: 57px;
+}
+
+/*/******************EXPERIENCE SECTION/*******************/
+
+.diploma-section{
+width: 70%;
+margin: auto;
+}
+
+.diploma{
+border: 1px solid #1E1189;
+padding: 16px;
+border-radius: 12px;
+}
+.diploma-title{
+border-radius: 12px;
+
+}
+
+.diploma-title hr{
+height: 4px;
+background: #1E1189;
+width: 4%;
+
+}
+.diploma-title p{
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.diploma-card{
+border-radius: 12px;
+background-image: url("../images/diploma-card-bg.png");
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+
+}
+
+.diploma-card-txt{
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+color: #858585;
+}
+
+/******************DIPLOMA SECTION******************/
+
+.reservation-section{
+width: 73%;
+margin: auto;
+}
+
+.reservation-section p,
+.reservation-section li{
+font-family: Inter;
+font-size: 20px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+}
+
+p.plavtxt{
+font-family: Inter;
+font-size: 18px;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.reserve-btn{
+
+padding: 11px 50px;
+border-radius: 4px
+}
+
+/******************RESERVATION SECTION******************/
+
+.testemonial-hero{
+background-image: url("../images/testemonial-hero.png");
+background-size: cover;
+background-repeat: no-repeat;
+padding: 22px 0 22px 39px;
+border-radius: 20px;
+height: 260px;
+
+
+}
+
+.testemonial-hero p{
+font-family: Inter;
+font-size: 16px;
+font-weight: 700;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: right;
+color: white;
+
+}
+
+.testemonial-hero p.testemonial-card{
+font-family: Inter;
+font-size: 16px;
+font-weight: 400;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: right;
+
+}
+
+
+/*************TESTEMONIAL SECTION****************/
+
+.apply-section{
+width: 27%;
+margin: auto;
+}
+.apply-title h3{
+font-family: Inter;
+font-size: 32px;
+font-weight: 500;
+line-height: 39px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+
+
+.apply-title h3 span{
+font-family: Inter;
+font-size: 38px;
+font-weight: 700;
+line-height: 46px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.apply-title p{
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.apply-title p.mali{
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+
+
+.apply-title hr{
+height: 4px;
+background: #1E1189;
+width: 4%;
+
+}
+
+form p.privacy-txt{
+font-family: Inter;
+font-size: 12px;
+font-weight: 400;
+line-height: 15px;
+letter-spacing: 0em;
+
+}
+
+.apply-btn{
+width: 80%;
+margin: auto;
+}
+
+
+/************APPLY FORM************/
+
+
+
+.bullets{
+margin: auto;
+}
+
+.bullet{
+width: 21%;
+margin: auto;
+}
+
+.bullet hr{
+height: 2px;
+background: #1D427E;
+}
+
+/********************BULLETS SECTION*************************/
+
+
+.feature hr{
+height: 4px;
+background: #56BFE0;
+width: 4%;
+
+}
+
+/***********LOGOS****************/
+
+.footer p{
+font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+p.card1{
+width: 50%;
+}
+
+.footer ul li a{
+font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+color: white;
+}
+
+p.socialnet{
+font-family: Inter;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+/**********FOOTER SECTION*************/
+
+.footer-bottom{
+background: #292929;
+
+}
+
+.footer-bottom p{
+font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+padding: 5px;
+}
+.footer-bottom a{
+
+font-family: Inter;
+font-size: 12px;
+font-weight: 500;
+line-height: 14px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+
+
+/*==============MOBILE REPONSSIVE================*/
+
+@media screen and (max-width: 425px) {
+.hero-mobile{
+display: block;
+padding: 32px 30px 0;
+}
+
+.nav-mr{
+margin: 0;
+}
+
+
+.hero{
+
+height: 900px;
+}
+.header-right{
+display: none;
+}
+
+.hero-content h2{
+display: none;
+}
+
+.btn-reg{
+	width: 100%;
+}
+
+/*hero */
+
+
+.nav-btns{
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	align-content:center ;
+}
+
+
+
+/*NAV BUTTONS*/
+
+.formula-title{
+    padding: 10px 57px;
+    margin: 0 20px;
+}
+
+/*formula buttons*/
+
+.success-card{
+	height: 400px;
+	border: none;
+}
+
+.mid-card{
+	margin: 2px 0;
+}
+.thats-not-all{
+	margin-top: 1100px;
+}
+
+/*succress cards*/
+
+.bonusPack{
+	width: 93%;
+}
+
+.bonus{
+	height: 470px;
+	border-radius: 0;
+}
+
+.bonus h4{
+	padding: 0 50px;
+}
+
+.bonus-class{
+
+	padding: 0 80px;
+
+}
+
+.bonus-list{
+	font-family: Inter;
+font-size: 14px;
+font-weight: 700;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+/*bonus pack*/
+
+
+.project-section {
+width: 93%;
+}
+
+/*project section*/
+
+.job-card{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.btn-bonus{
+	padding: 10px 50px;
+}
+
+/*project section*/
+
+.team-title{
+	text-align: left;
+}
+
+.team-card p{
+	font-family: Inter;
+font-size: 14px;
+font-weight: 500;
+line-height: 17px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.team-card2 img,
+.team-card img{
+	height: 64px;
+	width: 64px;
+	margin-bottom: 170px;
+	 border-radius: 0;
+}
+.team-card2 h2,
+.team-card h2{
+	font-family: Inter;
+font-size: 20px;
+font-weight: 800;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.team2{
+	margin: 0;
+}
+
+.team-card4{
+	margin: 0;
+}
+.t-card-1{
+	background: #1D427E;
+	color: white;
+}
+
+.t-card-4{
+	display: none;
+}
+
+.proektCard{
+	margin-bottom: 10px;
+}
+
+.meetup{
+	width: 100%;
+}
+
+.meetup-right{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+/*meet up*/
+
+.programa-section{
+margin-top: 500px;	
+}
+
+.programa-section h2{
+
+text-align: left;
+}
+
+.programa{
+	width: 85%;
+
+}
+
+
+.vkluceno{
+	width: 100%;
+	margin: 0;
+}
+
+
+.naj-programa{
+	padding: 10px 87.5px 2px;
+}
+
+.experience-section{
+	width: 90%;
+}
+
+.diploma-section{
+	display: none;
+}
+
+
+
+.reservation-section{
+	width: 100%;
+}
+
+.reserve-btn{
+	padding: 11px 110px;
+}
+
+.reservation-section img{
+	margin-top: 50px;
+
+}
+
+
+.apply-section{
+	width: 90%;
+}
+
+.bullet{
+	width: 100%;
+}
+.bullets{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.footer .card1 p{
+	font-family: Inter;
+font-size: 10px;
+font-weight: 500;
+line-height: 12px;
+letter-spacing: 0em;
+text-align: center;
+margin: 0;
+
+}
+.footer hr{
+	margin: 0;
+}
+
+.footer-bottom{
+	padding: 0 60px;
+}
+.fb-txt{
+	flex-direction: column;
+	align-items: center;
+}
+
+
+.bg-cela{
+
+background-repeat: no-repeat;
+height: 7750px;
+
+}
+
+
+}
